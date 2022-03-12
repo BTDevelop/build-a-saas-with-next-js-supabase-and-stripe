@@ -6,7 +6,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "@supabase/supabase-js": "^1.28.2",
+    "@supabase/supabase-js": "^1.30.3",
     "axios": "^0.24.0",
     "cookie": "^0.4.1",
     "next": "latest",
